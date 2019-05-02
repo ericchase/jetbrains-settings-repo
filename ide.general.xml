@@ -6,6 +6,7 @@
     <option name="defaultProjectDirectory" value="G:\Code" />
     <option name="inactiveTimeout" value="5" />
     <option name="reopenLastProject" value="false" />
+    <option name="autoSaveFiles" value="false" />
     <option name="showTipsOnStartup" value="false" />
   </component>
   <component name="Registry">
