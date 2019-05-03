@@ -31,7 +31,6 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
-    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
     <option name="SPACE_WITHIN_METHOD_PARENTHESES" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
