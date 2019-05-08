@@ -12,11 +12,16 @@
   <action id="Android.RunAndroidAvdManager">
     <keyboard-shortcut first-keystroke="shift ctrl alt d" />
   </action>
+  <action id="Arrangement.Alias.Rule.Edit" />
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Edit" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />
+  </action>
+  <action id="ChangesView.Rename">
+    <keyboard-shortcut first-keystroke="shift f6" />
   </action>
   <action id="ChangesView.SetDefault" />
   <action id="CheckinProject" />
@@ -91,15 +96,14 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
-  <action id="Git.Reword.Commit">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="Git.Reword.Commit" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
   <action id="GotoImplementation">
     <mouse-shortcut keystroke="control alt button1" />
   </action>
+  <action id="GotoNextError" />
   <action id="GotoTypeDeclaration">
     <mouse-shortcut keystroke="shift control button1" />
   </action>
@@ -133,8 +137,14 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
+  <action id="RemoteHostView.Rename">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="f2" />
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
@@ -155,9 +165,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
-  <action id="ShelvedChanges.Rename">
-    <keyboard-shortcut first-keystroke="f2" />
-  </action>
+  <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="ctrl alt space" />
@@ -167,7 +175,9 @@
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Vcs.Push" />
+  <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
   <action id="XDebugger.MoveWatchUp" />
+  <action id="XDebugger.SetValue" />
   <action id="learn.next.lesson" />
 </keymap>
