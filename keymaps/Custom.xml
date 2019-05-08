@@ -93,10 +93,15 @@
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="EditorUnSelectWord" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Git.Reword.Commit" />
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
   </action>
@@ -119,6 +124,9 @@
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextEditorTab" />
   <action id="NextTab">
