@@ -167,7 +167,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl h" />
   </action>
   <action id="RerunTests" />
-  <action id="Run" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
@@ -178,10 +180,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt space" />
   </action>
   <action id="Switcher" />
-  <action id="Synchronize">
-    <keyboard-shortcut first-keystroke="ctrl alt y" />
-    <keyboard-shortcut first-keystroke="f5" />
-  </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
