@@ -170,6 +170,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ShelvedChanges.Rename" />
   <action id="ShowContent" />
   <action id="SmartTypeCompletion">
@@ -179,6 +183,10 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="UnselectPreviousOccurrence">
+    <keyboard-shortcut first-keystroke="shift alt j" />
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="Vcs.Push" />
   <action id="XDebugger.EditWatch" />
   <action id="XDebugger.MoveWatchDown" />
