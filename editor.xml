@@ -7,11 +7,6 @@
     <option name="AUTO_POPUP_COMPLETION_LOOKUP" value="false" />
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
   </component>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
-  </component>
   <component name="XmlFoldingSettings">
     <option name="COLLAPSE_HTML_STYLE_ATTRIBUTE" value="false" />
     <option name="COLLAPSE_ENTITIES" value="false" />

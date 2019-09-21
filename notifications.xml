@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Reason" displayType="NONE" />
-  </component>
-</application>
