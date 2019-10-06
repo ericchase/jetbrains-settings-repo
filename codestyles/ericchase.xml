@@ -1,4 +1,4 @@
-<code_scheme name="Custom" version="173">
+<code_scheme name="ericchase" version="173">
   <option name="OTHER_INDENT_OPTIONS">
     <value>
       <option name="INDENT_SIZE" value="2" />
@@ -24,10 +24,6 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
   </JSCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="WRAP_ON_TYPING" value="0" />
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
