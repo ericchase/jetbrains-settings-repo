@@ -9,6 +9,7 @@
       <mapping pattern="Game-Engine" type="PLAIN_TEXT" />
       <mapping pattern="Frameworks" type="PLAIN_TEXT" />
       <mapping pattern="Planning" type="PLAIN_TEXT" />
+      <mapping pattern="Utilities" type="PLAIN_TEXT" />
       <mapping pattern="Web-Server" type="PLAIN_TEXT" />
       <mapping pattern="Testing" type="PLAIN_TEXT" />
       <mapping pattern="Accessibility" type="PLAIN_TEXT" />
